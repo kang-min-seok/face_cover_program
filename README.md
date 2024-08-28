@@ -28,7 +28,12 @@ face_recognition이나 retinaface설치가 안되면 CMake문제이니 정상적
 
 
 ## 🖥️retinafaceTest
-> [움짤 추가하고 블로그 설명 쓸테니까 기달려주셈요]()
+<img src="https://github.com/user-attachments/assets/0855b4a7-5d4d-4ff6-887b-4d6839ae0c85"  width="800"/>
+
+![retinaface_video](https://github.com/user-attachments/assets/6d6e3074-dc54-497e-a6aa-596d4169c0c2)
+
+
+> [블로그 설명](https://velog.io/@min1042004/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%96%BC%EA%B5%B4-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B3%A0-%EA%B0%80%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9CRetinaface)
 
 해당 코드는 딥러닝을 통해 얼굴을 검출해내는 라이브러리를 사용했습니다.<br><br>
 그만큼 정확도가 뛰어나지만 속도가 느린게 단점입니다.<br><br>
